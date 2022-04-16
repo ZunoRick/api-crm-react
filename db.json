@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ricardo Actualizado",
+      "empresa": "Udemy",
+      "email": "correo@correo.com",
+      "telefono": "",
+      "notas": "El cliente solicita un producto",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen Diseño",
+      "email": "karen@correo.com",
+      "telefono": "",
+      "notas": "Cotizando toner",
+      "id": 2
+    }
+  ]
+}
