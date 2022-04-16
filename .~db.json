@@ -1,14 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Ricardo ",
-      "empresa": "Udemy",
-      "email": "correo@correo.com",
-      "telefono": "884456349",
-      "notas": "El cliente solicita un producto",
-      "id": 1
-    },
-    {
       "nombre": "Karen",
       "empresa": "Karen Diseño",
       "email": "karen@correo.com",
